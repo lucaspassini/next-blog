@@ -7,8 +7,8 @@
 
 ## Screenshots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47937044/132420791-3cacdaaf-3edb-4422-aca5-224ec84cac8e.png" alt="Home Screen"  />
-<img src="https://user-images.githubusercontent.com/47937044/132420800-ef09a56a-6107-4504-b8ce-f671d03b2b2d.png" alt="Post Screen"  />
+<img src="https://user-images.githubusercontent.com/47937044/132421842-6e03da75-d4b9-474e-8089-2ae8ffae1d62.png" alt="Home Screen" />
+<img src="https://user-images.githubusercontent.com/47937044/132421845-894c1a39-5823-4088-970c-35253b7981ce.png" alt="Post Screen" />
 </p>
 
 ## Getting Started
