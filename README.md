@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://nextjs.org/learn/basics/create-nextjs-app">
+    <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
+    <p align="center">Next.js Blog</p>
+  </a>
+</p> 
+
 ## Getting Started
 
 First, run the development server:
