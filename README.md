@@ -5,6 +5,12 @@
   </a>
 </p> 
 
+## Screenshots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/47937044/132420791-3cacdaaf-3edb-4422-aca5-224ec84cac8e.png" alt="Home Screen"  />
+<img src="https://user-images.githubusercontent.com/47937044/132420800-ef09a56a-6107-4504-b8ce-f671d03b2b2d.png" alt="Post Screen"  />
+</p>
+
 ## Getting Started
 
 First, run the development server:
