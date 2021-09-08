@@ -1,11 +1,11 @@
 <p align="center">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
-<p align="center"><strong>Next.js Portfolio</strong></p>
+
+## Next.js Portfolio
 </p> 
 
-## Screenshots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47937044/132421842-6e03da75-d4b9-474e-8089-2ae8ffae1d62.png" alt="Home Screen" />
+<img src="https://user-images.githubusercontent.com/47937044/132581842-13e27fdb-91e1-4d3b-8cc0-fa74ee459cbd.png" alt="Home Screen" />
 <img src="https://user-images.githubusercontent.com/47937044/132421845-894c1a39-5823-4088-970c-35253b7981ce.png" alt="Post Screen" />
 </p>
 
