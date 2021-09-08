@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
           📫 You can contact me on: <br />
           <a href="https://www.linkedin.com/in/lucaspassini/">LinkedIn</a>
           <br />
-          <a href="https://github.com/lucaspassini">Github</a>
+          <a href="https://github.com/lucaspassini">GitHub</a>
           <br />
           <a href="https://twitter.com/l0rn1_">Twitter</a>
         </p>
