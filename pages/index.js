@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
           <br />
           <a href="mailto: lucas.passini1@gmail.com">Gmail</a>
           <br />
-          <a href="https://twitter.com/l0rn1_">Twitter</a>
+          <a href="https://twitter.com/lucaspassini_">Twitter</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
