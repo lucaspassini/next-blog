@@ -18,9 +18,11 @@ export default function Home({ allPostsData }) {
         </p>
         <p>
           📫 You can contact me on: <br />
+          <a href="https://github.com/lucaspassini">GitHub</a>
+          <br />
           <a href="https://www.linkedin.com/in/lucaspassini/">LinkedIn</a>
           <br />
-          <a href="https://github.com/lucaspassini">GitHub</a>
+          <a href="mailto: lucas.passini1@gmail.com">Gmail</a>
           <br />
           <a href="https://twitter.com/l0rn1_">Twitter</a>
         </p>
