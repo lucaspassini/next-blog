@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
 
-## Next.js Portfolio
+## Next.js Blog
 </p> 
 
 <p align="center">
