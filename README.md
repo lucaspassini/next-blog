@@ -1,14 +1,8 @@
-## Next.js Blog
+## `Next.js Blog`
 </p> 
 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/47937044/134274403-79785456-d575-464b-adbc-ddecec453ff7.png" width="750" alt="Desktop Home" />
-<img src="https://user-images.githubusercontent.com/47937044/134274407-754d5bb2-bcce-4b9d-bc1e-41af012fc853.png" width="750" alt="Desktop Posts" />
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/47937044/134274410-b599f18a-cafe-48b3-a409-d8cc31e9d1e8.png" width="250" alt="Mobile Home" />
-<img src="https://user-images.githubusercontent.com/47937044/134274414-2e4882e0-2012-4736-8da8-875c2b6d971a.png" width="250" alt="Mobile Posts" />
 </p>
 
 
