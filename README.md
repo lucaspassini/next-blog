@@ -2,10 +2,11 @@
 </p> 
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47937044/134274403-79785456-d575-464b-adbc-ddecec453ff7.png" width="650" alt="Desktop Home" />
+<img src="https://user-images.githubusercontent.com/47937044/153794933-165e2c2c-7f8d-4ee8-9cd5-5fb121af2110.png" width="650" alt="Desktop Home" />
 </p>
 
 ## 📕 About
+
 
 A static blog made with Next.js and MDX for handling posts files.
 
