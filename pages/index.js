@@ -1,9 +1,9 @@
-import Link from "next/link";
-import Date from "../components/date";
-import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
-import utilStyles from "../styles/utils.module.css";
-import { getSortedPostsData } from "../lib/posts";
+import Link from 'next/link';
+import Date from '../components/date';
+import Head from 'next/head';
+import Layout, { siteTitle } from '../components/layout';
+import utilStyles from '../styles/utils.module.css';
+import { getSortedPostsData } from '../lib/posts';
 
 export default function Home({ allPostsData }) {
   return (
@@ -13,18 +13,34 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          💻 Hi, I’m <strong>Lucas</strong>, a Front-end Developer, enthusiast
-          in learning and applying my knowledge on development technologies.
+          👋 Hi there, I’m <strong>Lucas</strong>, a 22 years old front-end
+          developer. As an enthusiast of technology, I enjoy the process of
+          problem-solving and learning about new things in the software
+          development field.
         </p>
         <p>
           📫 You can contact me on: <br />
-          <a href="https://github.com/lucaspassini">GitHub</a>
+          <a
+            className={utilStyles.textCenter}
+            href="https://github.com/lucaspassini"
+          >
+            GitHub
+          </a>
           <br />
-          <a href="https://www.linkedin.com/in/lucaspassini/">LinkedIn</a>
+          <a
+            className="social-media"
+            href="https://www.linkedin.com/in/lucaspassini/"
+          >
+            LinkedIn
+          </a>
           <br />
-          <a href="mailto: lucas.passini1@gmail.com">Gmail</a>
+          <a className="social-media" href="mailto: lucas.passini1@gmail.com">
+            Gmail
+          </a>
           <br />
-          <a href="https://twitter.com/lucaspassini_">Twitter</a>
+          <a className="" href="https://twitter.com/lucaspassini_">
+            Twitter
+          </a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
@@ -51,7 +67,7 @@ export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
     props: {
-      allPostsData,
-    },
+      allPostsData
+    }
   };
 }
